@@ -1,4 +1,4 @@
-name: Hello world
+name: Example workflow - Hello Actions!
 
 on: [push]
 
